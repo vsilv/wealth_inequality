@@ -1,2 +1,2 @@
-# income_inequality
-This repository investigates income inequality following Thomas Piketty et. al.
+# wealth_inequality
+This repository investigates wealth inequality following Thomas Piketty et. al.
